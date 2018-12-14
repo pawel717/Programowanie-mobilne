@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="hello_first_fragment">Hallo erstes Fragment</string>
+    <string name="hello_second_fragment">Hallo zweites Fragment</string>
+    <string name="first_fragment_btn">Zeige first fragment</string>
+    <string name="second_fragment_btn">Zeige second fragment</string>
+    <string name="save_btn">Speichern</string>
+    <string name="save_toast">Data speichern</string>
+</resources>

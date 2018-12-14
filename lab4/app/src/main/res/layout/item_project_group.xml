@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <CheckedTextView
+        android:id="@+id/project_group_name"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left"
+        android:checkMark="?android:attr/textCheckMark"
+        android:gravity="center_vertical"
+        android:padding="20dp"
+        android:text="Project group name"
+        android:textAlignment="gravity"
+        android:textColor="@android:color/black"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="443dp" />
+
+</android.support.constraint.ConstraintLayout>

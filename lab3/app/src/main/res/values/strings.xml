@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="button_list_activity_text">go to list activity</string>
+    <string name="button_get_counter">get counter from bind service</string>
+</resources>
